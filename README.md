@@ -14,7 +14,7 @@ $ bundle
 ```
 Add the following to your `application.js`:
 ```javascript
-$ //= require chartjs-zoomable
+$ //= require chartjs/zoomable/application.js
 ```
 
 ## Usage
